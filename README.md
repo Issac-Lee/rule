@@ -1,4 +1,3 @@
 # rule
 rules
-
-type:yaml
+behavior: classical, format: yaml
