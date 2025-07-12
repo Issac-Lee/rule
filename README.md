@@ -1,2 +1,4 @@
 # rule
 rules
+
+type:yaml
